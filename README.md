@@ -1,4 +1,4 @@
-# -Credit-Card-Fraud-Detection
+# Credit-Card-Fraud-Detection
 
 This repository contains all the code as a part of the project on Credit Card Fraud Detection. The list of input variables include: </br>
 
